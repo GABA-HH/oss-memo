@@ -9,6 +9,7 @@
 
 - **[iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns)**
   - 用途: Javaのデザインパターン集。学習目的、コードリーディング、実務でのパターン適用の参考に。
+  - 優先確認：Singleton,Factory Method,Strategy,Observer,Builder
 
 - **[TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)**
   - 用途: アルゴリズムとデータ構造のJava実装集。学習目的、コーディング面接の準備に。
